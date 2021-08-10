@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10" height="14" viewBox="0 0 10 14">
-  <g id="Group_2420" data-name="Group 2420" transform="translate(-517 -602)">
-    <text id="_" data-name="+" transform="translate(517 610)" fill="#fb8500" font-size="6" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">+</tspan></text>
-    <text id="_2" data-name="÷" transform="translate(517 615)" fill="#fb8500" font-size="6" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">÷</tspan></text>
-    <text id="_3" data-name="×" transform="translate(523 615)" fill="#fb8500" font-size="5" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">×</tspan></text>
-    <text id="_-" data-name="-" transform="translate(523 611)" fill="#fb8500" font-size="9" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="38" viewBox="0 0 29 38">
+  <g id="Group_2420" data-name="Group 2420" transform="translate(-336 -607)">
+    <text id="_" data-name="+" transform="translate(336 628)" fill="#fb8500" font-size="21" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+    <text id="_2" data-name="÷" transform="translate(352 641)" fill="#fb8500" font-size="21" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">÷</tspan></text>
+    <text id="_3" data-name="×" transform="translate(336 641)" fill="#fb8500" font-size="21" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">×</tspan></text>
+    <text id="_-" data-name="-" transform="translate(354 628)" fill="#fb8500" font-size="21" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">-</tspan></text>
   </g>
 </svg>
